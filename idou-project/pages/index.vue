@@ -85,12 +85,12 @@
           </md-card>
           <md-card>
               <md-card-media>
-                  <img src="https://camo.githubusercontent.com/ba41f8c6abfb0e5197c8c7a57c56afcea6763e73/68747470733a2f2f6d656469612e74696d656f75742e636f6d2f696d616765732f3130323536313139312f696d6167652e6a7067">
+                  <img src="https://campfire-pub.s3.amazonaws.com/media/filter/l/img/53be953d-d26c-45bc-b4ff-76cf0a804936.png">
               </md-card-media>
 
               <md-card-header>
-                  <div class="md-title">映画鑑賞</div>
-                  <div class="md-subhead">森の中で映画鑑賞！</div>
+                  <div class="md-title">野外映画鑑賞</div>
+                  <div class="md-subhead">猪苗代湖で映画鑑賞！</div>
               </md-card-header>
 
               <md-card-expand>
@@ -110,8 +110,10 @@
 
                   <md-card-expand-content>
                       <md-card-content>
-                          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio itaque ea, nostrum odio. Dolores, sed accusantium quasi non, voluptas eius illo quas, saepe voluptate pariatur in deleniti minus sint. Excepturi.
-                          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d335.39406105405544!2d139.9469449918852!3d37.51339952808608!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f8aacbab17b7d51%3A0x7c9f6650e0a06ac4!2z44CSOTY1LTAwMTUg56aP5bO255yM5Lya5rSl6Iul5p2-5biC5YyX5rud5rKi77yS5LiB55uu77yV4oiS77yWIOS4gOeuleW4guawkeOCu-ODs-OCv-ODvA!5e0!3m2!1sja!2sjp!4v1543714502402" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                          <h4>場所</h4>〒965-0201 福島県会津若松市湊町大字赤井笹山原 湊町大字赤井字笹山原４０８<br>
+                          <h4>日時</h4>12/18 19:00<br>
+                          <h4>料金</h4>500円<br>
+                          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d54024.678751300744!2d139.9431414631887!3d37.51551871219728!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd6b4ab347f3e1eac!2z77yy77y244Oq44K-44O844OI54yq6IuX5Luj5rmW44Oi44OT44Os44O844K4!5e0!3m2!1sja!2sjp!4v1543719460132" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                       </md-card-content>
                   </md-card-expand-content>
               </md-card-expand>
