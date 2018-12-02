@@ -81,11 +81,13 @@
           </md-card>
       </md-app-content>
     </md-app>
+    <bottom-bar></bottom-bar>
   </div>
 </template>
 
 <style lang="scss" scoped>
   .md-app {
+    max-height: 755px;
     border: 1px solid rgba(#000, .12);
   }
 
@@ -98,11 +100,17 @@
     width: 230px;
     max-width: calc(100vw - 125px);
   }
+
 </style>
 
 <script>
+import BottomBarComponent from '~/components/BottomBarComponent.vue'
+
 export default {
   name: 'Flexible',
+  components: {
+    'bottom-bar': BottomBarComponent
+  },
   data: () => ({
     menuVisible: false
   })
