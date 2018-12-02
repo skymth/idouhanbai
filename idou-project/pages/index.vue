@@ -82,12 +82,6 @@ export default {
     'bottom-bar': BottomBarComponent,
     'cards': Cards
   },
-  methods: {
-      clickHome() {
-      }
-      clickMap() {
-      }
-  }
   data: () => ({
     menuVisible: false
   })
