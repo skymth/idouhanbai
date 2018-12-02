@@ -48,7 +48,7 @@
       </md-app-drawer>
 
       <md-app-content>
-          <cards/>
+          <div :is="currentComponent"></div>
       </md-app-content>
     </md-app>
     <bottom-bar></bottom-bar>
@@ -83,7 +83,16 @@ export default {
     'cards': Cards
   },
   data: () => ({
-    menuVisible: false
-  })
+    menuVisible: false,
+    currentComponent: Cards
+  }),
+  method: {
+    clickHome: function () {
+      this.currentComponent = Cards
+    },
+    clickMap: function () {
+      this.currentComponent = Map
+    }
+  }
 }
 </script>

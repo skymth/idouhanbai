@@ -113,7 +113,46 @@
                     </md-button>
                 </md-card-expand-trigger>
             </md-card-actions>
+            <md-card-expand-content>
+                <md-card-content>
+                    <h4>場所</h4>〒965-0201 福島県会津若松市湊町大字赤井笹山原 湊町大字赤井字笹山原４０８<br>
+                    <h4>日時</h4>12/18 19:00<br>
+                    <h4>料金</h4>500円<br>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d54024.678751300744!2d139.9431414631887!3d37.51551871219728!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd6b4ab347f3e1eac!2z77yy77y244Oq44K-44O844OI54yq6IuX5Luj5rmW44Oi44OT44Os44O844K4!5e0!3m2!1sja!2sjp!4v1543719460132" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                </md-card-content>
+            </md-card-expand-content>
+        </md-card-expand>
+    </md-card>
+    <md-card>
+        <md-card-media>
+            <img src="https://user-images.githubusercontent.com/28649418/49335812-94367b00-f638-11e8-80c8-2a34f3adf59f.png">
+        </md-card-media>
 
+        <md-card-header>
+            <div class="md-title">テラスカフェ磐梯山</div>
+            <div class="md-subhead">磐梯山でインスタ映え❤️</div>
+        </md-card-header>
+
+        <md-card-expand>
+            <md-card-actions md-alignment="space-between">
+                <div>
+                    <md-button class="md-icon-button md-accent">
+                        <md-icon>thumb_up</md-icon>
+                    </md-button>
+                    <md-button class="md-icon-button">
+                        <md-icon>phone</md-icon>
+                    </md-button>
+                    <md-button class="md-icon-button">
+                        <md-icon>share</md-icon>
+                    </md-button>
+                </div>
+
+                <md-card-expand-trigger>
+                    <md-button class="md-icon-button">
+                        <md-icon>keyboard_arrow_down</md-icon>
+                    </md-button>
+                </md-card-expand-trigger>
+            </md-card-actions>
             <md-card-expand-content>
                 <md-card-content>
                     <h4>場所</h4>〒965-0201 福島県会津若松市湊町大字赤井笹山原 湊町大字赤井字笹山原４０８<br>
